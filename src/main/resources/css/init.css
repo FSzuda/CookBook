@@ -1,0 +1,11 @@
+.btn_login {
+    -fx-background-color: lightgreen;
+    -fx-text-fill: black;
+ }
+ .btn_register {
+    -fx-background-color: red;
+    -fx-text-fill: blue;
+ }
+ .layout(
+     -fx-background-color: CEBED;
+}
